@@ -1,0 +1,44 @@
+bot: Please select a product
+
+user: (1. Travel Explorer | 2. Personal Accident Lite)
+
+bot: Ask me what you want to know about the product?
+
+user: (in case '1. travel explorer')
+	1. What is this product about?
+	2. What are the cover benefit provide?
+	3. How much premium do I need to pay?
+
+
+	(In case '2. Personal Accident Lite')	
+	1. What is Person Accident Lite?
+	2. Who is eligible for this plan?
+	3. When will my coverage end?
+
+bot: (in case '1. travel explorer')
+	1. This product will indemnify you in the manner and to extent described in the policy, in respect of events occurring during your journey within the period of insurance.
+	2. I’m sorry but I’m updating my replies to you right now. Sorry for the inconvenience.
+	3. The premium that you have to pay may vary depending on the choice of plan, destination and duration of cover.
+
+	(In case '2. Personal Accident Lite')
+	1. Personal Accident Lite is a micro-insurance Personal Accident plan covering for Accidental Death/Permanent Disability. In addition, it provides accidental medical expenses and bereavement allowances as well. This product is written by Tokio Marine Insurans Malaysia.
+	2. This plan is offered to all AEON E-wallet users aged 16 and above. Auto renewal takes place until insured is 99 years old.
+	3. This plan automatically lapse when insured is 100 years old.
+
+Hello! Please select a product. 
+
+1. Travel Explorer 
+2. Personal Accident Lite
+
+
+Ask me what do you want to know about the product?
+
+1. What is this product about?
+2. What are the cover benefit provide?
+3. How much premium do I need to pay?
+
+Ask me what do you want to know about the product?
+
+1. What is Person Accident Lite?
+2. Who is eligible for this plan?
+3. When will my coverage end?
