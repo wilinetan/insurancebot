@@ -43,10 +43,10 @@ class ChatBot {
     // console.log(`  Query: ${result.queryText}`);
     // console.log(`  Response: ${result.fulfillmentText}`);
     if (result.intent) {
-      //   console.log(`  Intent: ${result.intent.displayName}`);
+      // console.log(`  Intent: ${result.intent.displayName}`);
       return result.fulfillmentText;
     } else {
-      //   console.log(`  No intent matched.`);
+      // console.log(`  No intent matched.`);
       return "No intent matched";
     }
   }
